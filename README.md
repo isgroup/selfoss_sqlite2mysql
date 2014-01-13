@@ -52,4 +52,6 @@ See http://selfoss.aditu.de/ for more detailed documentation.
 
 ## Fix corrputed tables
 
+```
 mysqlcheck -e feed -u root -p
+```
